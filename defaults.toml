@@ -1,0 +1,10 @@
+[servers]
+  [servers.s1]
+  name = a
+  version = 0.0
+
+  [servers.s2]
+  name = b
+  version = 0.1
+
+
